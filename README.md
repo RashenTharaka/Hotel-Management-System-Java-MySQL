@@ -2,6 +2,12 @@
 
 A Java Swing desktop application for managing hotel and resort operations. The system includes modules for employees, customers, rooms, events, inventory, check-in/check-out, activity logs, reports, and database backup.
 
+<p align="center">
+  <img src="src/icons/HotelManagementSystem-Poster.png"
+       alt="Kingfisher Resort Management System showing the admin dashboard, employee management, and event management modules"
+       width="100%">
+</p>
+
 ## Features
 
 - Admin and receptionist login
